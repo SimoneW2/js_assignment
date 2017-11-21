@@ -1,0 +1,40 @@
+#jumbotron{
+	font-family:arial;
+	text-align:center;
+}
+
+.container{
+	font-family:arial;
+	margin:0 auto;
+}
+
+.col ul li {
+	list-style: none;
+}
+
+.col ul li:hover{
+	color:grey;
+}
+
+.col{
+	border-left: solid grey 3px;
+}
+
+.p-2{
+	background-color:#d6d6c2;
+	box-shadow: 7px 7px 3px #888888;
+		
+}
+.mr-2{
+	margin-right:3%;
+}
+
+.mt-3{
+	margin-top:2%;
+}
+
+#card-footer{
+	background-color:#3d3d29;
+	text-align:center;
+	color:white;
+}
